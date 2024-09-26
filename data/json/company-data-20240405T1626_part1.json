@@ -1,0 +1,41 @@
+[
+  {
+    "id": "654654",
+    "title": "TEST Company",
+    "company_type": {
+      "id": "6",
+      "name": "PTE. LTD."
+    },
+    "alternative_company_name": null,
+    "owner_client": {
+      "id": "743",
+      "name": "skyg1019"
+    },
+    "company_ssic_1": {
+      "id": "776",
+      "name": "INFORMATION TECHNOLOGY CYBERSECURITY CONSULTANCY"
+    },
+    "company_ssic_2": {
+      "id": "771",
+      "name": "DEVELOPMENT OF SOFTWARE AND APPLICATIONS (EXCEPT GAMES AND CYBERSECURITY)"
+    },
+    "application_id": "202014172W",
+    "company_effect_date": "2020-05-20",
+    "financial_year_end": "2021-10-31",
+    "first_fye": "2021-10-31",
+    "postcode": "059817",
+    "address_line_1": "6 EU TONG SEN STREET #11-10F",
+    "address_line_2": "THE CENTRAL SINGAPORE",
+    "transfer_in": null,
+    "transfer_out": null,
+    "date_of_striking": "2022-07-29",
+    "audit_firm_name": {
+      "id": "",
+      "name": ""
+    },
+    "company_incorporate_type": {
+      "id": "2706",
+      "name": "Exempt Private Company"
+    }
+  }
+]
